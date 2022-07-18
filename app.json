@@ -5,7 +5,7 @@
     "env": {
         "UUID": {
             "description": "v2ray UUID",
-            "value": "c95ef1d4-f3ac-4586-96e9-234a37dda068"        
+            "value": "abcf7b5c-4f71-47b2-9b80-2f4afa4afd92"        
         },
         "PROTOCOL": {
             "description": "v2ray protocol, vmess or vless",
@@ -13,6 +13,6 @@
         }
     },
     "website": "https://111111.online",
-    "repository": "https://github.com/yeahwu/kinto",
+    "repository": "https://github.com/malibu1234/kinto",
     "stack": "container"
 }
